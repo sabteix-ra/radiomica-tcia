@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv
+venv
+
+# Dados medicos
+data
+.dcm
+.nrrd
+.nii
+.nii.gz
+
+# Python
+__pycache__
+.pyc
+
+# Configuracoes locais
+.vscode
+.env
+
+# Ficheiros temporarios
+.tmp
+.log
